@@ -1,0 +1,10 @@
+.env
+
+db.sqlite3
+
+package-lock.json
+yarn.lock
+
+*.log
+
+node_modules
